@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wong Zhiwei (@sherman2zhiwei)
-- 👀 I’m a software engineer with experience in backend development, data engineering, data science and machine learning. I'm currently looking to specialize and pursue a career in backend development in Korea.
+- 👀 I’m a software engineer with experience in backend development, data engineering, data science and machine learning. I'm currently looking to specialize and pursue a career in backend development.
 - :pencil2: Python, Java, Javascript, R, C
 - :books: Node.js, Express, Flask, Django, React, NoSQL, RDBMS, Kafka, MQTT, Docker, Tensorflow, Firebase, Android Studio, Linux, Git
 - :tongue: English (native), Mandarin (proficient), Bahasa Malaysia (proficient)
